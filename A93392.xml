@@ -1,0 +1,523 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The exhortation of Mr. Rogers to his children, which he wrote a few days before his burning; being martyred in Queen Mary's days Being gody admonitions, fit for a Christian to follow.</title>
+            <author>Smith, Robert, d. 1555.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93392</idno>
+            <idno type="STC">Wing S4161C</idno>
+            <idno type="STC">ESTC R230299</idno>
+            <idno type="EEBO-CITATION">99895978</idno>
+            <idno type="PROQUEST">99895978</idno>
+            <idno type="VID">153599</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153599)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2371:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The exhortation of Mr. Rogers to his children, which he wrote a few days before his burning; being martyred in Queen Mary's days Being gody admonitions, fit for a Christian to follow.</title>
+                  <author>Smith, Robert, d. 1555.</author>
+               </titleStmt>
+               <extent>[20] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. Wright, J. Clarke, W. Thackeray, and T. Passinger,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Robert Smith, cf. Wing CD-ROM, 1996.</note>
+                  <note>Title page is A2.</note>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Signatures: [-A1] A B⁴ [-B4]</note>
+                  <note>DFo copy, reel 2371, is missing the first and last leaves. Both blanks?</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Martyrdom --  Early works to 1800.</term>
+               <term>Martyrs --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153599:1"/>
+            <p>
+               <hi>The Exhortation</hi> of Mr. <hi>ROGERS</hi> To his Children, which he wrote a few Days be<g ref="char:EOLhyphen"/>fore his burning; being Martyred in Queen <hi>Mary's</hi> days. Being Gody Admonitions, fit for a Chriſtian to follow.</p>
+            <figure>
+               <figDesc>man being burned at the stake, while others look on</figDesc>
+            </figure>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rinted for</hi> F. Coles, T. Vere, J. Wright, J. Clarke, W. Thackeray, <hi>and</hi> T. Paſſinger, 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:153599:2"/>
+            <pb facs="tcp:153599:2"/>
+            <head>An Exhortation that a Father gave to his Children, which he wrote a few days before his burning.</head>
+            <p>THere is no Ingenious Nature that will not lend an ear unto wholſome Words, though they Proceed from the Mouth of an Enemy: but if they be uttered of a Friend, or Kinſman, we do not onely hearken, but liſten with atten<g ref="char:EOLhyphen"/>tion: But if a Father ſpeaks, there is no Child ſo ungracious as to ſtop his ears; yet if all this might not pre<g ref="char:EOLhyphen"/>vail with you (my Children) to perſwade you to be attentive, yet hearken, becauſe they are the words of your dying Fa<g ref="char:EOLhyphen"/>ther; which I perſwade my ſelf ſhall not be onely heard by you, vill alſo reve<g ref="char:EOLhyphen"/>renced
+<pb facs="tcp:153599:3"/> and remembred when I am gone; the glaſs of my life is now almoſt ſpent, for the laſt ſand is running out, therefore ſeeing that I have not much time to ſpend, let me not beat-the ayr, or ſpend my words in vain, but let them ſink into your hearts, as rain into the parched earth, and ſo you ſhall not onely abandon all ſterility and barrenneſs, but alſo be happily fruitful in the works of Piety.</p>
+            <p>It was ſaid of Old, and that ſaying holds true, <hi>That onely Vertue and piety, is the way to felicity.</hi> It is the narrow way of vertue, (in which too too few do walk) that leads to happineſs. This the <hi>Romans</hi> of old did plainly ſhew by their two Temples of Uertue and Honour: None could get into their temple of ho<g ref="char:EOLhyphen"/>nour, but they muſt paſs to it through the temple of vertue: intimating there<g ref="char:EOLhyphen"/>by, &amp; ſtirring up others to be vertuous, that they may be happy. And if you my children do deſire to be happy, as I know you do (for nature hath taught us all to he ſo indulgent to our ſelves, as to wiſh our own welfare) following vertue and
+<pb facs="tcp:153599:3"/> Piety, and your deſires ſhall not fail, neither ſhall you be diſappointed of your hopes, but if on the contrary, you ſhall walk in the broad and common road of ſin and errour, you will not only deprive your ſelves of the bleſſings of this Life, but alſo for the future purchaſe to your ſelves endleſs miſeries.</p>
+            <p>Thus having given you a general cau<g ref="char:EOLhyphen"/>tion for the avoiding of ſin, I will parti<g ref="char:EOLhyphen"/>cularize in ſome few, which I would have you eſpecially to take heed of; the firſt and chief, is covetouſneſs; 'tis this that is the root of all other vices; if ri<g ref="char:EOLhyphen"/>ches do increaſe among you, ſet not your hearts upon them: but if it ſhall pleaſe God to beſtow a <hi>Benjamins</hi> Portion of earthly bleſſings upon any one of you, as he ſhall be mindful of you, be not you unmindful of him: and as he hath not forgotten to be gracious unto you, ſo be not unmindful of his poor, but caſt a part of that portion to thoſe that are in want. Beware of that ſor did and ſottiſh ſin of drunkenneſs, which deprives a man of his ſence, and by which, man that is the exacteſt and moſt curious piece that ever
+<pb facs="tcp:153599:4"/> God did frame, is made far inferiour to the worſt of heaſts: for they be ſenſible Creatures, but thoſe that do dedicate themſelves to <hi>Bacchus,</hi> have neither rea<g ref="char:EOLhyphen"/>ſon, nor ſenſe, ſo that they are one degree lower the the ſimpleſt beaſt: take heed of flothfulneis Man is an active creature &amp; therefore ſhould be active and not idle: Ye are to labour the refore, it is but your duties to be ſtill buſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed about the employments of your callings. Be not proud of your own worths, neither of any Garments that you ſhall be Maſter of; for this will breed contempt in your Su<g ref="char:EOLhyphen"/>periours, ſcorn in your equals, and cauſe thoſe that are your inferiours to deride and ſtout you. Other ſins there are to be avoided, but the remainder of my legacy ſhall be in verſe, which is not onely more delightful then Proſe, but by reaſon of that delight, apter to make a greater im<g ref="char:EOLhyphen"/>preſſion in your minds.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:153599:4"/>
+            <head>A fathers Exhortation to his children, which he wrote a few days before his Burning.</head>
+            <figure>
+               <figDesc>monarch on throne, surrounded by four kneeling men</figDesc>
+            </figure>
+            <lg>
+               <l>GIve ear my Children to my words,</l>
+               <l>whom God hath dearly bough;</l>
+               <l>Lay up my Laws within your hearts,</l>
+               <l>and print them in your thought.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:153599:5"/>
+               <l>For I your Father have foreſeen,</l>
+               <l>the frail and filthy way,</l>
+               <l>Which fleſh and blood would follow fain</l>
+               <l>even to their own decay.</l>
+            </lg>
+            <lg>
+               <l>For all and every living Beaſt,</l>
+               <l>their Crib do know full well,</l>
+               <l>But <hi>Adams</hi> heirs even from the leaſt,</l>
+               <l>are ready to rebel.</l>
+            </lg>
+            <lg>
+               <l>And all the creatures of the earth,</l>
+               <l>full well do know their way,</l>
+               <l>But <hi>Adams</hi> heirs even from the leaſt,</l>
+               <l>are apt to go aſtray.</l>
+            </lg>
+            <lg>
+               <l>For earth and aſhes is our ſtrength,</l>
+               <l>our glory and our gain,</l>
+               <l>And into aſhes at the length</l>
+               <l>we ſhall return again.</l>
+            </lg>
+            <lg>
+               <l>For Fleſh doth flouriſh like the flower,</l>
+               <l>and groweth like the graſs,</l>
+               <l>And is conſumed in an hour,</l>
+               <l>as dar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y comes to paſs.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:153599:5"/>
+               <l>For I, the I mage of your years,</l>
+               <l>your treaſure and your truſt,</l>
+               <l>Am dying now before your face,</l>
+               <l>and ſhall conſume to duſt.</l>
+            </lg>
+            <lg>
+               <l>For as you ſee your Fathers fleſh,</l>
+               <l>conſumed into clay,</l>
+               <l>Even ſo you ſhall my children dea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>conſume and waſte away</l>
+            </lg>
+            <lg>
+               <l>The Sun, the Moon, and eke the Stars,</l>
+               <l>that ſerve both day and night,</l>
+               <l>The earth, and every living thing,</l>
+               <l>ſhall be conſumed quite.</l>
+            </lg>
+            <lg>
+               <l>And all the Worſhip that is wrought.</l>
+               <l>that hath been heard or ſeen,</l>
+               <l>Shall clean conſume and turn to naught</l>
+               <l>as it had never been.</l>
+            </lg>
+            <lg>
+               <l>Therefore ſee that you follow me,</l>
+               <l>your Father and your Friend,</l>
+               <l>And enter into that ſame Land,</l>
+               <l>which never ſhall have end.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:153599:6"/>
+               <l>
+                  <hi>I</hi> leave you here a little book,</l>
+               <l>for you to look upon,</l>
+               <l>That you may ſee your fathers face</l>
+               <l>when he is dead and gone.</l>
+            </lg>
+            <lg>
+               <l>Who for the hope of heavenly things,</l>
+               <l>while he did here remain,</l>
+               <l>Gave over all his golden years,</l>
+               <l>to priſon and to pain.</l>
+            </lg>
+            <lg>
+               <l>Where I among my iron bands,</l>
+               <l>incloſed in the dark,</l>
+               <l>A few days before my ſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> death,</l>
+               <l>did dedicate this work.</l>
+            </lg>
+            <lg>
+               <l>And in example of your youth,</l>
+               <l>to whom I wiſh all good,</l>
+               <l>I preach you here a perfect truth,</l>
+               <l>and ſeal it with my blood.</l>
+            </lg>
+            <lg>
+               <l>To you my heirs of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arthly things,</l>
+               <l>which I do leave behind;</l>
+               <l>That you may read and underſtand,</l>
+               <l>and keep it in your mind.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:153599:6"/>
+               <l>That as you have been heirs of that</l>
+               <l>which once ſhall wear away,</l>
+               <l>Even ſo you may poſſeſs the part</l>
+               <l>which never ſhall decay.</l>
+            </lg>
+            <lg>
+               <l>In following of your Fathers ſteps</l>
+               <l>in truth and eke in love,</l>
+               <l>Ye may be alſo heirs with him,</l>
+               <l>for evermore above.</l>
+            </lg>
+            <lg>
+               <l>Have God alwaies before your eyes,</l>
+               <l>with all your whole intent,</l>
+               <l>Commit no ſin in any wiſe,</l>
+               <l>keep his Commandement.</l>
+            </lg>
+            <lg>
+               <l>Abhor that arrant whore of <hi>Rome,</hi>
+               </l>
+               <l>and all her blaſphemies,</l>
+               <l>And drink not of her Decratals,</l>
+               <l>nor yet of her decrees.</l>
+            </lg>
+            <lg>
+               <l>Give honour to your mother dear,</l>
+               <l>remember well her pain,</l>
+               <l>And recompence her in her age,</l>
+               <l>the like with love again.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:153599:7"/>
+               <l>Be always at her hand,</l>
+               <l>and let her not decay,</l>
+               <l>Remember well your Father all,</l>
+               <l>that ſhould have been your ſtay.</l>
+            </lg>
+            <lg>
+               <l>Give of your portion to the poor,</l>
+               <l>as riches do ariſe;</l>
+               <l>And from the needy naked ſoul,</l>
+               <l>turn not away your eyes.</l>
+            </lg>
+            <lg>
+               <l>For he that doth not hear the cry,</l>
+               <l>of thoſe that ſtand in need,</l>
+               <l>Shall cry himſelf, and not be heard,</l>
+               <l>when he would hope to ſpéed.</l>
+            </lg>
+            <lg>
+               <l>If God hath given you encreaſe,</l>
+               <l>and bleſſed well your ſtore,</l>
+               <l>Remember you are put in truſt,</l>
+               <l>to miniſter to the poor.</l>
+            </lg>
+            <lg>
+               <l>Beware of foul and filthy luſt,</l>
+               <l>let ſuch things have no place;</l>
+               <l>Keep clean your veſſels in the Lord,</l>
+               <l>that he may you imbrace.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:153599:7"/>
+               <l>Ye are the Temples of the Lord,</l>
+               <l>for ye are dearly bought,</l>
+               <l>And they that do defile the ſame,</l>
+               <l>ſhall ſurely come to nought.</l>
+            </lg>
+            <lg>
+               <l>Poſſeſs not Pride in any caſe,</l>
+               <l>build not thy houſe too high.</l>
+               <l>But always have before your eyes,</l>
+               <l>that ye be born to dye.</l>
+            </lg>
+            <lg>
+               <l>Defraud not him that hired is,</l>
+               <l>your labour to ſuſtain;</l>
+               <l>But give him always out of hand,</l>
+               <l>his penny for his pain.</l>
+            </lg>
+            <lg>
+               <l>And as you would another man,</l>
+               <l>againſt you to proceed,</l>
+               <l>Do ye the ſame to them again,</l>
+               <l>when they do ſtand in need.</l>
+            </lg>
+            <lg>
+               <l>And part your portion to the poor,</l>
+               <l>in money and in meat,</l>
+               <l>And ſend the feeble fainting ſoul</l>
+               <l>of that which ye ſhould <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:153599:8"/>
+               <l>That when your members do lack meat;</l>
+               <l>and cloathing to your back</l>
+               <l>You may the better think on them</l>
+               <l>that do both live and lack.</l>
+            </lg>
+            <lg>
+               <l>Ask counſel alwaies of the wiſe,</l>
+               <l>give ear unto the end,</l>
+               <l>Refuſe not thou the ſweet rebukes,</l>
+               <l>of him that is thy friend.</l>
+            </lg>
+            <lg>
+               <l>Be alwaies thankful to the Lord,</l>
+               <l>with prayer and with praiſe,</l>
+               <l>Deſiring him in all your works,</l>
+               <l>for to direct your ways.</l>
+            </lg>
+            <lg>
+               <l>And ſin not like the Swiniſh ſort,</l>
+               <l>whoſe bodies being fed,</l>
+               <l>Conſume their time upon the earth,</l>
+               <l>from belly unto bed.</l>
+            </lg>
+            <lg>
+               <l>Seek firſt, I ſay, the living Lord,</l>
+               <l>have him alwaies before,</l>
+               <l>And then he ſure that he will bleſs,</l>
+               <l>your <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> your ſtore.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:153599:8"/>
+               <l>And thus if you direct your ways,</l>
+               <l>according to this book,</l>
+               <l>Then ſhall they ſay that ſee your fare,</l>
+               <l>how like me you do look.</l>
+            </lg>
+            <lg>
+               <l>And when you have this perfectly</l>
+               <l>upon your fingers ends,</l>
+               <l>Poſſeſſing all within this book,</l>
+               <l>then give it to your friends.</l>
+            </lg>
+            <lg>
+               <l>And I beſéeth the Almighty God,</l>
+               <l>repliniſh you with grace,</l>
+               <l>That I may have you in the Heavens,</l>
+               <l>and ſee you face to face.</l>
+            </lg>
+            <lg>
+               <l>And though the ſword hath cut me <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>contrary to my kind,</l>
+               <l>That I could not enjoy your love,</l>
+               <l>according to my mind.</l>
+            </lg>
+            <lg>
+               <l>Yet I do hope that when the <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>;</l>
+               <l>ſhall <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> like a ſtowl,</l>
+               <l>I ſhall receive you in perfect ſhape,</l>
+               <l>in body and in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oul.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:153599:9"/>
+               <l>And that I may enjoy your love,</l>
+               <l>and you enjoy the Land,</l>
+               <l>I do beſeech the living Lord</l>
+               <l>to hold you in his hand.</l>
+            </lg>
+            <lg>
+               <l>Though here my body be adjudg'd,</l>
+               <l>in flaming fire to fry,</l>
+               <l>My ſoul I truſt will ſtraight aſcend,</l>
+               <l>to live with God on high.</l>
+            </lg>
+            <lg>
+               <l>what though this carcaſs ſmart a while,</l>
+               <l>and this life decay,</l>
+               <l>My ſoul I do commend to God,</l>
+               <l>to live with him for aye.</l>
+            </lg>
+            <lg>
+               <l>I know I am a Sinner horn,</l>
+               <l>from the Original,</l>
+               <l>And that I doe deſerve to dye,</l>
+               <l>by our fore-fathers fall.</l>
+            </lg>
+            <lg>
+               <l>But by our Saviours precious blood,</l>
+               <l>which on the Croſs was ſpilt,</l>
+               <l>Who freely offered up his life,</l>
+               <l>to fave our ſouls from guilt.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:153599:9"/>
+               <l>I hope redemption I ſhall have,</l>
+               <l>and all that in him truſt,</l>
+               <l>When I ſhall ſee him face to face,</l>
+               <l>to live amongſt the iuſt.</l>
+            </lg>
+            <lg>
+               <l>Then why ſhould I fear grifly <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eath.</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he for me did dye,</l>
+               <l>For King and <hi>Ceſar,</hi> rich and poor,</l>
+               <l>the force of death muſt try.</l>
+            </lg>
+            <lg>
+               <l>When I am chain'd unto the ſtake,</l>
+               <l>and faggots girt me round,</l>
+               <l>Pray to the Lord, my ſoul in heaven,</l>
+               <l>be with thy glory crown'd.</l>
+            </lg>
+            <lg>
+               <l>Come welcome death the end of fears,</l>
+               <l>I am prepar'd to dye,</l>
+               <l>Theſe earthly flames will ſend my ſoul,</l>
+               <l>ſtraight to the Lord on high.</l>
+            </lg>
+            <lg>
+               <l>Farewel my children to the world,</l>
+               <l>where you muſt yet remain,</l>
+               <l>The Lord of Hoſts be your defence,</l>
+               <l>till we do meet again.</l>
+            </lg>
+            <pb facs="tcp:153599:10"/>
+            <figure>
+               <figDesc>woman</figDesc>
+            </figure>
+            <lg>
+               <l>Farewel my true and loving wife,</l>
+               <l>my children and my friends,</l>
+               <l>I hope to God to ſee you all,</l>
+               <l>when all things have their ends.</l>
+               <l>And if you do abide in God,</l>
+               <l>as you have now begun,</l>
+               <l>Your courſe I warrant ſhall be ſhort,</l>
+               <l>you have not long to run.</l>
+               <l>God grant you ſo to end your days,</l>
+               <l>as he ſhall think it beſt;</l>
+               <l>That I may have you in the Heavens</l>
+               <l>where I do hope to reſt.</l>
+            </lg>
+            <pb facs="tcp:153599:10"/>
+            <figure>
+               <figDesc>monarch on throne, surrounded by four kneeling men</figDesc>
+            </figure>
+            <p>THus hath my failing and faultring tongue endeavoured to diſcover uu<g ref="char:EOLhyphen"/>to you thoſe vertues which will lead you unto happineſs, you have heard thoſe ſun<g ref="char:EOLhyphen"/>dry and ſeveral documents which I have given you, but it is not enough to hear them, it is not your audience only that
+<pb facs="tcp:153599:11" rendition="simple:additions"/> I crave, it is your Obedience that I require; for as 'tis with the body of man to eat much, and not to keep it, argues a good Appetite, but bad digeſtion: ſo it is with the divine part of man, to hear only, and not to keep it, ſhews quick ears which is little or nothing worth without retention: therefore theſe my Fatherly admonitions, if you my children ſhall obſerve, and duly exerciſe, as I hope you will; I ſhall be happy in giving theſe in<g ref="char:EOLhyphen"/>ſtructions, and you more happy in receiv<g ref="char:EOLhyphen"/>ing them, for you ſhall find that the pro<g ref="char:EOLhyphen"/>ſecuting of theſe foremention'd vertues, and the avoiding the formerly ſpecified vices, ſhall be comfortable unto you here, and procure eternal glory for you here<g ref="char:EOLhyphen"/>after.</p>
+            <p>I will end my Legacy with my life and both life and Legacy with a bleſſing: The God of <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> bleſs you all in this life, and make you all heirs of that bleſſe<g ref="char:cmbAbbrStroke">̄</g>dneſs of the life to come, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
